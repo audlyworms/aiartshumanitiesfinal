@@ -12,7 +12,7 @@ The reason I disagree with this portfolio being relevant is largely to do with t
 # Navigation and Summary
 This portfolio will contain exercises as done by me to fulfil the requirements of the portfolio assignment. The first notebook will be about my understanding of machine learning (ML), focusing on how AI ML systems work; the second notebook will be my critical reflection on AI, including benefits, risks, limitations, and wider impact of AI in ethical, archival, and legal fields; finally, the third notebook will demonstrate an understanding of programming concepts (which is somehow relevant to the arts and humanities, though I have my doubts). 
 
-1. Read Me file
-2. Understanding of Machine Learning
-3. Critical Reflection on AI
-4. Understanding of Programming Concepts 
+1. Read Me file (README.md)
+2. Understanding of Machine Learning (understand-ml.ipynb)
+3. Critical Reflection on AI (crit-reflection.ipynb)
+4. Understanding of Programming Concepts (understanding-programming-concepts.ipynb)
