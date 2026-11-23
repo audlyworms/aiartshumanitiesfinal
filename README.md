@@ -6,7 +6,7 @@ GUID: 3243245s
 # Introduction
 This is the final portfolio for INFOST: AI for the Arts & Humanities. While I disagree with this portfolio having anything to do with the arts and/or humanities, I do still need to pass this class. 
 
-# A brief disclaimer
+## A brief disclaimer
 The reason I disagree with this portfolio being relevant is largely to do with the course description stating this course would have "a focus in the arts and humanities" yet here we are coding. Very little done in this class has had much relevance to furthering my learning either on AI or arts and humanities. There has been no discussion on practical applications of AI in the humanities nor has there been focus on any humanities topics. Lecture content has been focused on how AI works, which isn't terribly helpful, while labs have been led by Microsoft Copilot instead of the professor. I have been left confused about the relevance of this class and about how accurate the course description is. I am frustrated with how this course has been done, as the course description has so much potential for learning about modern applications, uses, and context of AI in the humanities realm. I am disappointed in the lack of learning and annoyed at the waste of my time. I can only hope future iterations of this course improve and actually follow the course description, rather than teaching us useless amounts of python. 
 
 # Navigation and Summary
